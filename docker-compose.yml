@@ -28,3 +28,4 @@ services:
 
 volumes:
   db_data:
+Tool Use: str_replace_editor
